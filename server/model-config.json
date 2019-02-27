@@ -34,5 +34,13 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Todo": {
+    "dataSource": "mysqlDS",
+    "public": true
+  },
+  "Usuario": {
+    "dataSource": "mysqlDS",
+    "public": true
   }
 }
